@@ -14,7 +14,7 @@ Download and Setup the lastest stable version of [Unreal Engine 4](https://www.u
 
 Import the cloned repository into the UE 4 engine.
 
-*More details are coming*
+Or, just execute the `ICA.uproject` file.
 
 ## Built With
 
